@@ -1,0 +1,2 @@
+STOCK_UNIVERSE={'PAYFIN':{'beta':1.35,'analyst_expected_return':.16,'std_dev':.28},'PAYRETAIL':{'beta':.85,'analyst_expected_return':.11,'std_dev':.17},'PAYINFRA':{'beta':1.10,'analyst_expected_return':.135,'std_dev':.22},'PAYGOLD':{'beta':.20,'analyst_expected_return':.08,'std_dev':.12},'PAYBOND':{'beta':.05,'analyst_expected_return':.065,'std_dev':.04},'PAYTECH':{'beta':1.55,'analyst_expected_return':.19,'std_dev':.34}}
+RISK_FREE_RATE=.07; MARKET_RETURN=.13
